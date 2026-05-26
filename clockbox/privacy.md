@@ -1,13 +1,13 @@
 ---
 title: Clockbox — Privacy Policy
-description: Privacy policy for Clockbox by Lyght / Trenchy Dev.
+description: Privacy policy for Clockbox by Traveled Out.
 ---
 
 # Privacy Policy for Clockbox
 
 **Last updated: May 25, 2026**
 
-This Privacy Policy describes how Clockbox ("the App", "we", "us") handles your information. Clockbox is published by Lyght.
+This Privacy Policy describes how Clockbox ("the App", "we", "us") handles your information. Clockbox is published by Traveled Out, a sole proprietorship.
 
 We've kept this short and plain-English because the answer is short: **Clockbox does not collect, transmit, or share any of your data.**
 
@@ -23,13 +23,13 @@ Clockbox stores the following on your iPhone and iPad, and (if you enable iCloud
 - **Workplace settings.** If you set up a workplace for geofence-based auto-clocking: the workplace name, location coordinates, and geofence radius you chose.
 - **App preferences.** UI selections such as your last-used calendar view and similar non-personal app state.
 
-This data lives on your device(s). Lyght never receives a copy.
+This data lives on your device(s). Traveled Out never receives a copy.
 
 ## 3. iCloud sync
 
 If you are signed in to iCloud and have iCloud Drive enabled, Clockbox uses Apple's CloudKit to sync the data in section 2 between your own devices. This sync uses your **private** iCloud database, which is visible only to you. Apple's own [iCloud Privacy Policy](https://www.apple.com/legal/privacy/) governs this storage.
 
-Lyght has no ability to read, access, or recover your iCloud data.
+Traveled Out has no ability to read, access, or recover your iCloud data.
 
 ## 4. Location
 
