@@ -5,7 +5,7 @@ description: Privacy policy for RareTap by Traveled Out.
 
 # Privacy Policy for RareTap
 
-**Last updated: July 2, 2026**
+**Last updated: July 14, 2026**
 
 This Privacy Policy describes how RareTap ("the App", "we", "us") handles your information. RareTap is published by Traveled Out, a sole proprietorship.
 
@@ -21,6 +21,7 @@ RareTap stores the following on your iPhone and iPad, and (if you enable iCloud 
 
 - **Activity records.** Clock-in and clock-out times, breaks, manual edits, and the source of each event (manual, NFC, Siri, geofence).
 - **Journal entries.** Any notes or journal text you write, tied to your days and activities.
+- **Journaling suggestions you pick.** If you start an entry from Apple's journaling suggestions (iOS 17.2 and later), the details you pick in the system picker — such as a place name, a song, or a workout title — are written into that entry, and the suggestion's title is kept on the entry as a visible "From Journaling Suggestions" note. RareTap receives only what you explicitly pick, uses it solely for that journal entry, and never shares it. If you never use the picker, RareTap receives nothing from it.
 - **Activities.** The activities you track, including their names, colors, icons, and any weekly time goals you set.
 - **Tracked locations.** If you set up one or more locations for geofence-based auto-clocking: each location's name, coordinates, geofence radius, and the activity it belongs to.
 - **App preferences.** UI selections such as your last-used calendar view and similar non-personal app state.
