@@ -1,11 +1,12 @@
 ---
 title: RareTap — Privacy Policy
 description: Privacy policy for RareTap by Traveled Out.
+canonical_url: https://www.raretap.app/privacy
 ---
 
 # Privacy Policy for RareTap
 
-**Last updated: July 14, 2026**
+**Last updated: July 17, 2026**
 
 This Privacy Policy describes how RareTap ("the App", "we", "us") handles your information. RareTap is published by Traveled Out, a sole proprietorship.
 
@@ -19,7 +20,7 @@ We've kept this short and plain-English because the answer is short: **RareTap d
 
 RareTap stores the following on your iPhone and iPad, and (if you enable iCloud sync) in your private iCloud account:
 
-- **Activity records.** Clock-in and clock-out times, breaks, manual edits, and the source of each event (manual, NFC, Siri, geofence).
+- **Activity records.** Clock-in and clock-out times, breaks, manual edits, and how each event was started or stopped (manually, by geofence, through Siri or Shortcuts, from a notification or Live Activity, or in Control Center).
 - **Journal entries.** Any notes or journal text you write, tied to your days and activities.
 - **Journaling suggestions you pick.** If you start an entry from Apple's journaling suggestions (iOS 17.2 and later), the details you pick in the system picker — such as a place name, a song, or a workout title — are written into that entry, and the suggestion's title is kept on the entry as a visible "From Journaling Suggestions" note. RareTap receives only what you explicitly pick, uses it solely for that journal entry, and never shares it. If you never use the picker, RareTap receives nothing from it.
 - **Activities.** The activities you track, including their names, colors, icons, and any weekly time goals you set.
@@ -68,7 +69,7 @@ Because your data lives on your device and in your private iCloud account, you c
 
 - **In the app:** delete individual entries, journal notes, or entire activities at any time — RareTap keeps no server-side copy to retain.
 - **On-device data:** delete the app from your iPhone or iPad. iOS removes RareTap's local data automatically.
-- **iCloud data:** Settings → Apple ID → iCloud → Manage Account Storage → RareTap → Delete Data.
+- **iCloud data:** Settings → [your name] → iCloud → Storage (or Manage Account Storage) → RareTap → Delete Data.
 
 There is no developer account or server to contact for deletion because we never received your data in the first place.
 
