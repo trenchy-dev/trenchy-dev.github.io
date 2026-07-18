@@ -8,13 +8,13 @@ canonical_url: https://www.raretap.app/privacy
 
 **Last updated: July 17, 2026**
 
-This Privacy Policy describes how RareTap ("the App", "we", "us") handles your information. RareTap is published by Traveled Out, a sole proprietorship.
+This Privacy Policy describes how the RareTap app and website handle information. RareTap is published by Traveled Out, a sole proprietorship.
 
-We've kept this short and plain-English because the answer is short: **RareTap does not collect, transmit, or share any of your data.**
+We've kept this short and plain-English because the answer is short: **The RareTap app does not collect, transmit, or share any of your data.**
 
 ## 1. Data we collect
 
-**We collect nothing.** RareTap does not send your data to us, our servers, or any third party.
+**The RareTap app collects nothing.** The app does not send your data to us, our servers, or any third party.
 
 ## 2. Data stored on your device
 
@@ -47,23 +47,29 @@ If you don't set up any tracked locations, RareTap does not request location at 
 
 ## 5. Third-party services
 
-RareTap does not use any third-party analytics, advertising, attribution, crash reporting, or tracking SDKs. The app contains no third-party network code.
+The RareTap app does not use any third-party analytics, advertising, attribution, crash reporting, or tracking SDKs. The app contains no third-party network code.
 
 The only third-party software embedded in the app is [Lottie](https://github.com/airbnb/lottie-ios), a rendering library for animations — Lottie does not make any network connections.
 
 ## 6. Analytics, tracking, advertising
 
-None. RareTap does not include analytics, behavioral tracking, advertising identifiers (IDFA), fingerprinting, or any cross-app tracking.
+None. The RareTap app does not include analytics, behavioral tracking, advertising identifiers (IDFA), fingerprinting, or any cross-app tracking.
 
-## 7. Purchases
+## 7. Website analytics
+
+This website uses [Vercel Web Analytics](https://vercel.com/docs/analytics/privacy-policy) to understand aggregate page views and referring sites. It does not use cookies or associate visits with a named person, and its visitor identifier resets after 24 hours.
+
+Vercel may process the page URL, filtered query parameters, referrer, approximate country or region, device type, operating system, and browser for aggregated reporting. We do not use custom analytics events or send activity records, journal entries, location records, or other in-app data to Vercel.
+
+## 8. Purchases
 
 If you purchase RareTap Premium, the transaction is handled entirely by Apple through the App Store. Payments are processed by Apple — RareTap never sees or stores your payment details — and your purchase is recognized on your device through Apple's transaction records. We receive no personal or payment information from a purchase.
 
-## 8. Children's privacy
+## 9. Children's privacy
 
 RareTap is not directed at children under 13. We do not knowingly collect personal information from anyone (see section 1).
 
-## 9. Your rights — deleting your data
+## 10. Your rights — deleting your data
 
 Because your data lives on your device and in your private iCloud account, you control it directly:
 
@@ -73,10 +79,10 @@ Because your data lives on your device and in your private iCloud account, you c
 
 There is no developer account or server to contact for deletion because we never received your data in the first place.
 
-## 10. Changes to this policy
+## 11. Changes to this policy
 
 If we update this policy, we will update the "Last updated" date at the top and post the new version at the same URL. If a change is material, we'll also mention it in an in-app release note.
 
-## 11. Contact
+## 12. Contact
 
 Questions about this Privacy Policy: [clockbox@traveledout.com](mailto:clockbox@traveledout.com)
